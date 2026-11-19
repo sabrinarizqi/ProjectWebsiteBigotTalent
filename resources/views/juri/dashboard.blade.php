@@ -65,7 +65,7 @@
                 Simpan Penilaian
             </button>
         </div>
-    </form>
+    </form> 
 </td>
                             </tr>
                             @empty
