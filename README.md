@@ -78,4 +78,3 @@ HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, MySQL, dan GitHub.
 
 Membangun solusi digital berbasis web yang terstruktur, efisien, dan mudah digunakan untuk mendigitalisasi pendataan dan kompetisi bakat murid di sekolah
 
-# ProjectWebsiteBigotTalent
